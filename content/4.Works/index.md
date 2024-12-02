@@ -4,4 +4,3 @@ navigation:
 ---
 
 # Home of the work folder page
-
